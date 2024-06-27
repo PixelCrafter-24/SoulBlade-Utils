@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/saiteja-madha"><img src="./docs/.gitbook/assets/strange.png" height="200" alt="Discord.js v14 Bot"></a>
+  <a href="[https://github.com/saiteja-madha](https://github.com/PixelCrafter-24/SoulBlade-Utils)"><img src="https://i.postimg.cc/j5kMsTxd/logo-gb.png" height="200" alt="Discord.js v14 Bot"></a>
   <br>
   Discord.js v14 Bot
   <br>
@@ -24,12 +24,6 @@
 
 <br>
 
-## 🔗 Resource Links
-
-- 🤖 Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=1013236808353599488&permissions=397602323830&scope=bot%20applications.commands)
-- 🤝 Support Server: [Join Here](https://discord.gg/2gPy75zgbW)
-- 📂 Documentation URL: [Visit Here](https://strangedocs.hostz.me)
-- 🐳 Docker Image: [Hub](https://hub.docker.com/r/saitejamadha/discord-js-bot)
 
 ## 📦 Prerequisites
 
