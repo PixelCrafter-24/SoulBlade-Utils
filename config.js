@@ -1,15 +1,15 @@
 module.exports = {
-  OWNER_IDS: [""], // Bot owner ID's
-  SUPPORT_SERVER: "", // Your bot support server
+  OWNER_IDS: ["1079048260943097977"],
+  SUPPORT_SERVER: "https://discord.gg/RryH74CUZD",
   PREFIX_COMMANDS: {
     ENABLED: true, // Enable/Disable prefix commands
-    DEFAULT_PREFIX: "!", // Default prefix for the bot
+    DEFAULT_PREFIX: "s!", // Default prefix for the bot
   },
   INTERACTIONS: {
-    SLASH: false, // Should the interactions be enabled
+    SLASH: true, // Should the interactions be enabled
     CONTEXT: false, // Should contexts be enabled
-    GLOBAL: false, // Should the interactions be registered globally
-    TEST_GUILD_ID: "xxxxxxxxxxx", // Guild ID where the interactions should be registered. [** Test you commands here first **]
+    GLOBAL: true, // Should the interactions be registered globally
+    TEST_GUILD_ID: "1249358267520516167", // Guild ID where the interactions should be registered. [** Test you commands here first **]
   },
   EMBED_COLORS: {
     BOT_EMBED: "#068ADD",
@@ -37,8 +37,8 @@ module.exports = {
 
   DASHBOARD: {
     enabled: false, // enable or disable dashboard
-    baseURL: "http://localhost:8080", // base url
-    failureURL: "http://localhost:8080", // failure redirect url
+    baseURL: "http://soulblade.xyz", // base url
+    failureURL: "http://soulblade.xyz", // failure redirect url
     port: "8080", // port to run the bot on
   },
 
